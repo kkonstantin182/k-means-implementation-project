@@ -13,6 +13,7 @@ The aim of this project is to develop the implementation of the k-means algorith
 * scikit-learn: 1.0.2
 * pandas: 1.4.0
 * numpy: 1.21.2
+* matplotlib: 3.5.1
 
 ## License
 GNU General Public License v2.0 [just for fun :)]
